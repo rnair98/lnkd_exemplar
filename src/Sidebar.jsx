@@ -3,6 +3,15 @@ import React from 'react'
 import './Sidebar.css'
 
 function Sidebar() {
+  const recentItem = (hashtag) => (
+    <div className="sidebar__recentItem">
+        <span className="sidebar__hash">#{hashtag}</span>
+    </div>
+  )
+
+
+
+
   return (
     <div className="sidebar">
         <div className="sidebar__top">
@@ -21,7 +30,7 @@ function Sidebar() {
             </div>
             <div className="sidebar__stat">
                 <p>Views on post</p>
-                <p className="sidebar__statnumber">
+                <p className="sidebar__statNumber">
                     100
                 </p>
             </div>
@@ -29,6 +38,11 @@ function Sidebar() {
 
         <div className="sidebar__bottom">
             <p>Recent</p>
+            {recentItem('software-engineering')}
+            {recentItem('entrepreneurship')}
+            {recentItem('mobile-apps')}
+            {recentItem('web-development')}
+            {recentItem('design')}
         </div>
     </div>
   )
