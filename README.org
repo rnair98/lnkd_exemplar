@@ -1,0 +1,17 @@
+* React Clone of LinkedIn-like Platforms
+
+** Features to add
+*** TODO: Build a feed of posts
+*** TODO: Facilitate new user creation and onboarding
+
+** With Vite 
+
+#+BEGIN_SRC shell :results output
+yarn dev
+#+END_SRC
+
+** With Bun.sh
+
+#+BEGIN_SRC shell :results output
+bun dev run
+#+END_SRC
