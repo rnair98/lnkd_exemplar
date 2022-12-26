@@ -76,6 +76,10 @@
     border-radius: 10px;
     margin-top:10px;
 }
+.sidebar__bottom > span {
+    font-size: 13px;
+    padding-bottom: 10px;
+}
 .sidebar__recentItem {
     display: flex;
     align-items: center;

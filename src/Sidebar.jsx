@@ -5,12 +5,9 @@ import './Sidebar.css'
 function Sidebar() {
   const recentItem = (hashtag) => (
     <div className="sidebar__recentItem">
-        <span className="sidebar__hash">#{hashtag}</span>
+        <span className="sidebar__hash"># {hashtag}</span>
     </div>
   )
-
-
-
 
   return (
     <div className="sidebar">
