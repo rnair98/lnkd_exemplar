@@ -4,7 +4,7 @@
     flex: 0.2;
     border-radius: 10px;
     text-align: center;
-    height: fit-content
+    height: fit-content;
 }
 
 .sidebar__avatar {

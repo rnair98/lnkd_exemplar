@@ -9,4 +9,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 35px;
+    max-width: 1200px;
+    margin-left: 20px;
+    margin-right: 20px;
 }

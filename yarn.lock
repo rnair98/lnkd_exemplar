@@ -2023,6 +2023,7 @@ __metadata:
     firebase: ^9.15.0
     react: ^18.2.0
     react-dom: ^18.2.0
+    react-flip-move: ^3.0.5
     react-redux: ^8.0.5
     react-router-dom: ^6.6.1
     redux: ^4.2.0
@@ -2442,6 +2443,16 @@ __metadata:
   peerDependencies:
     react: ^18.2.0
   checksum: 7d323310bea3a91be2965f9468d552f201b1c27891e45ddc2d6b8f717680c95a75ae0bc1e3f5cf41472446a2589a75aed4483aee8169287909fcd59ad149e8cc
+  languageName: node
+  linkType: hard
+
+"react-flip-move@npm:^3.0.5":
+  version: 3.0.5
+  resolution: "react-flip-move@npm:3.0.5"
+  peerDependencies:
+    react: ">=16.3.x"
+    react-dom: ">=16.3.x"
+  checksum: d216ab35638d232f6ca994e52348f78464c3576c6036423795cbb87d4b25e31abb94685f5b645f34bf9adbaae6cb9d3b3d55fba99fa64d56aa05e7c3bf246655
   languageName: node
   linkType: hard
 
