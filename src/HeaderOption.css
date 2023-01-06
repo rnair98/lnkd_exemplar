@@ -3,12 +3,12 @@
     flex-direction: column;
     align-items: center;
     margin-right: 20px;
-    color: grey;
+    color: #cccbcc;
     cursor: pointer;
 }
 
 .headerOption:hover {
-    color: black;
+    color: white;
 }
 
 .headerOption__icon {

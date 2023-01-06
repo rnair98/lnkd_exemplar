@@ -2,9 +2,9 @@
     display: flex;
     top: 0;
     position: sticky;
-    background-color: #fff;
+    background-color: #111111;
     justify-content: space-evenly;
-    border-bottom: 0.1px solid lightgrey;
+    border-bottom: 0.1px solid #000000;
     padding-top: 10px;
     padding-bottom: 10px;
     width: 100%;

@@ -57,7 +57,7 @@ function Login() {
   return (
     <div className='login'>
         <img 
-          src="https://citysys.oms-is.eu/wp-content/uploads/2020/11/ico-digitalintelligence-768x768.png" 
+          src="https://upload.wikimedia.org/wikipedia/commons/5/58/Human_brain.png" 
           alt="brain-logo" 
         />
 

@@ -30,12 +30,12 @@
     height: 35px;
     font-size: large;
     color: #fff;
-    background-color: #0074b1;
+    background-color: #111111;
     border: none;
     border-radius: 10px;
 }
 .login > form > button:hover {
-    background-color: #006097;
+    background-color: darkgrey;
     cursor: pointer;
 }
 .login__register {
